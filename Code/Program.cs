@@ -8,7 +8,7 @@ String[] array2 = new string[array1.Length];
 void SecondArrayWithIf(string[] array1, string[] array2)
 {
     int count = 0;
-    for (int i = 0, i < array1.Length; i++)
+    for (int i = 0; i < array1.Length; i++)
     {
     if(array[i].Length <= 3)
     {
@@ -19,7 +19,7 @@ void SecondArrayWithIf(string[] array1, string[] array2)
 }
 void PrintArray(string[] array);
 {
-    for (int i = 0; i < array.Length; i++);
+    for (int i = 0; i < array1.Length; i++);
     {
         Console.Write($"{array[i]} ");
     }
