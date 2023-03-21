@@ -3,3 +3,5 @@
 // Первоначальный массив можно ввести с клавиатуры 
 // либо задать на старте выполнения алгоритма.
 
+String[] array1 = new string[5] {"hello", "my", "name", "is", "Nattick"};
+String[] array2 = new string[array1.Length];
